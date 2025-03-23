@@ -1,0 +1,3 @@
+repository "Life Game/Life Game@2475813674033@cloud"
+  path "/"
+    smartbranch "/main/Bedroom" changeset "35"

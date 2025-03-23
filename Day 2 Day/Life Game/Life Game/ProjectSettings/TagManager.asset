@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Solid
+  - 
+  - 
+  - george_0
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3495867993
+    locked: 0
+  - name: Solid
+    uniqueID: 4099461507
+    locked: 0
+  - name: Solid
+    uniqueID: 1947660643
+    locked: 0
+  - name: Topmost
+    uniqueID: 4080445483
+    locked: 0
+  - name: Collision
+    uniqueID: 541275037
+    locked: 0
+  - name: Player
+    uniqueID: 1958265461
+    locked: 0
+  m_RenderingLayers:
+  - Default
